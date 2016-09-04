@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Australia>
+  <Game id="23" name="ChinaStyle" line ="25" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏" />
+  <Game id="26" name="AncientEgyptian" line ="25"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"/>
+  <Game id="28" name="PinkBar" line ="25"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"/>
+  <Game id="32" name="ASTROSPACE" line ="25" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏" />
+  <Game id="33" name="FIFA" line ="25"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"/>
+  <Game id="35" name="Mammon" line ="25"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"/>
+  <Game id="40" name="IceWorld" line ="25"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"/>
+  <Game id="42" name="GREENJUNGLE" line ="25" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏" />
+  <Game id="43" name="PinkLady" line ="25"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"/>
+  <Game id="44" name="HotelDay" line ="25"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"/>
+  <Game id="45" name="BeautyInBed" line ="25"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"/>
+  <Game id="227" name="ZombieHead" line ="50" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="228" name="DragonEYE" line ="50"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏" />
+  <Game id="230" name="CityNight" line ="50"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏" />
+  <Game id="231" name="RoseAndBeauty" line ="50" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="233" name="RoseLover" line ="50" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="232" name="Horoscope" line ="50" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="238" name="Victory" line ="50"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏" />
+  <Game id="239" name="GoldenMiner" line ="50"  smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏" />
+  <Game id="242" name="Pirate" line ="50" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="244" name="HAPPYFARM" line ="50" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="225" name="SweetHeart" line ="50" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="229" name="BabyHeart" line ="50" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="412" name="Bigshot" line ="100" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="418" name="Aladdin" line ="100" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="419" name="SexyBody" line ="100" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="422" name="TIGER" line ="100" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="423" name="ROBO" line ="100" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="425" name="VAMPIRE" line ="100" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="426" name="SexyGirl" line ="100" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="427" name="HolidyBikini" line ="100" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="604" name="Sugar" line ="15" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="605" name="ShowGirl" line ="100" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="606" name="NightDancers" line ="15" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+  <Game id="607" name="ChristmasGirl" line ="15" smallTip_EN = "Please continue to play and click" smallTip_CN = "请继续点击并进行游戏"  />
+</Australia>

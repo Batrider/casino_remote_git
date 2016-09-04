@@ -1,0 +1,2 @@
+version:141|ChinaStyle:100|AncientEgyptian:100|ASTROSPACE:100|FIFA:100|Mammon:102|IceWorld:100|GREENJUNGLE:100|PinkBar:100|ZombieHead:102|DragonEYE:100|Horoscope:100|Victory:100|GoldenMiner:100|Pirate:100|HAPPYFARM:100|SweetHeart:100|RoseLover:100|Bigshot:100|Aladdin:100|TIGER:100|ROBO:100|VAMPIRE:100|SexyBody:100|Sugar:100|ShowGirl:100|BabyHeart:100|BeautyInBed:100|ChristmasGirl:100|CityNight:100|HolidyBikini:100|HotelDay:100|NightDancers:100|PinkLady:100|RoseAndBeauty:100|SexyGirl:100
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Australia>
+
+	<Game id="6" pointX="-482" pointY="263" pointZ="0" offsetX="262" offsetY="-226"/>
+	<Game id="10" pointX="-498" pointY="248" pointZ="0" offsetX="251" offsetY="-227"/>
+	<Game id="15" pointX="-498" pointY="248" pointZ="0" offsetX="251" offsetY="-227"/>
+	<Game id="16" pointX="-498" pointY="248" pointZ="0" offsetX="251" offsetY="-227"/>
+	<Game id="23" pointX="-478" pointY="224" pointZ="0" offsetX="245" offsetY="-210"/>
+	<Game id="26" pointX="-485" pointY="248" pointZ="0" offsetX="251" offsetY="-232"/>
+	<Game id="28" pointX="-503" pointY="238" pointZ="0" offsetX="266" offsetY="-230"/>
+	<Game id="32" pointX="-488" pointY="235" pointZ="0" offsetX="254" offsetY="-217"/>
+	<Game id="33" pointX="-500" pointY="214" pointZ="0" offsetX="257" offsetY="-204"/>
+	<Game id="35" pointX="-482" pointY="263" pointZ="0" offsetX="262" offsetY="-226"/>
+	<Game id="40" pointX="-496" pointY="220" pointZ="0" offsetX="257" offsetY="-211"/>
+	<Game id="42" pointX="-509" pointY="172" pointZ="0" offsetX="253" offsetY="-219"/>
+	<Game id="43" pointX="-503" pointY="238" pointZ="0" offsetX="266" offsetY="-230"/>
+	<Game id="44" pointX="-489" pointY="222" pointZ="0" offsetX="253" offsetY="-213"/>
+	<Game id="45" pointX="-509" pointY="212" pointZ="0" offsetX="253" offsetY="-219"/>
+	<Game id="225" pointX="-530" pointY="240" pointZ="0" offsetX="261" offsetY="-235"/>
+	<Game id="227" pointX="-494" pointY="240" pointZ="0" offsetX="241" offsetY="-235"/>
+	<Game id="228" pointX="-515" pointY="188" pointZ="0" offsetX="257" offsetY="-213"/>
+	<Game id="229" pointX="-530" pointY="240" pointZ="0" offsetX="261" offsetY="-235"/>
+	<Game id="230" pointX="-515" pointY="188" pointZ="0" offsetX="257" offsetY="-213"/>
+	<Game id="231" pointX="-498" pointY="248" pointZ="0" offsetX="251" offsetY="-227"/>
+	<Game id="232" pointX="-498" pointY="248" pointZ="0" offsetX="251" offsetY="-227"/>
+	<Game id="233" pointX="-498" pointY="248" pointZ="0" offsetX="251" offsetY="-227"/>
+	<Game id="238" pointX="-502" pointY="240" pointZ="0" offsetX="251" offsetY="-225"/>
+	<Game id="239" pointX="-502" pointY="183" pointZ="0" offsetX="248" offsetY="-218"/>
+	<Game id="242" pointX="-494" pointY="230" pointZ="0" offsetX="242" offsetY="-225"/>
+	<Game id="244" pointX="-494" pointY="200" pointZ="0" offsetX="248" offsetY="-226"/>
+	<Game id="412" pointX="-475" pointY="240" pointZ="0" offsetX="248" offsetY="-237"/>
+	<Game id="418" pointX="-467" pointY="208" pointZ="0" offsetX="246" offsetY="-224"/>
+	<Game id="419" pointX="-485" pointY="230" pointZ="0" offsetX="250" offsetY="-230"/>
+	<Game id="422" pointX="-497" pointY="188" pointZ="5" offsetX="258" offsetY="-225"/>
+	<Game id="423" pointX="-520" pointY="202" pointZ="0" offsetX="253" offsetY="-215"/>
+	<Game id="425" pointX="-509" pointY="215" pointZ="0" offsetX="248" offsetY="-199"/>
+	<Game id="426" pointX="-485" pointY="230" pointZ="0" offsetX="250" offsetY="-230"/>
+	<Game id="427" pointX="-509" pointY="215" pointZ="0" offsetX="258" offsetY="-199"/>
+	<Game id="604" pointX="-503" pointY="238" pointZ="0" offsetX="256" offsetY="-220"/>
+	<Game id="605" pointX="-512" pointY="238" pointZ="0" offsetX="260" offsetY="-225"/>
+	<Game id="606" pointX="-512" pointY="238" pointZ="0" offsetX="260" offsetY="-225"/>
+	<Game id="607" pointX="-512" pointY="238" pointZ="0" offsetX="260" offsetY="-225"/>
+	
+	
+	<Game id="1000" pointX="-498" pointY="248" pointZ="0" offsetX="251" offsetY="-227"/>
+	
+	
+</Australia>

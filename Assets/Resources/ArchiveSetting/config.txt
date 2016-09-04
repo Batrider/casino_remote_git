@@ -1,0 +1,16 @@
+{
+"companyName":"777igt",
+"productName":"777igt",
+"bundleIdentifier":"com.igt777.casino",
+"bundleVersion":"1.4.2",
+"shortBundleVersion":"1.4",
+"platform":"null",
+"ftpUrl":"http://61.220.191.133:9902/OGSLOT/",
+"tokenUrl":"null",
+"gameUrl":"null",
+"versionUrl":"http://39.109.17.182:9901/mobile/version.txt",
+"signUrl":"null",
+"apkName":"777igt.apk",
+"keyStr":"null",
+"agent":"null"
+}

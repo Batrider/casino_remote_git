@@ -1,0 +1,110 @@
+﻿KEY,English,简体中文
+Language,English,简体中文
+Version,Version,版本
+Confirm,Confirm,确定
+NetWorkTip,"Unable to connect to the network","无法连接网络"
+DownloadTip,"You have the latest version, please update immediately!"，"当前有最新版本，请立即更新!"
+DownloadWarning,"Warning: Not connected to a wifi network","注意:当前不在WIFI环境下"
+WifiTip,"Please connect wifi","请连接wifi"
+Error1,"Account or password error","账号或密码错误"
+Error2,"Account is disabled","账号被禁用"
+Error3,"Account not exist","账号不存在"
+Error4,"invalid token","无效token"
+Error5,"unknow error","验证失败"
+Error6,"Agent code is error","代理编号输入错误"
+Error201," Insufficient Balance!","余额不足！"
+AUTOSPIN,AUTOSPIN_EN,AUTOSPIN_CN
+BETLINES,BETLINES_EN,BETLINES_CN
+BETMAX,BETMAX_EN,BETMAX_CN
+BETPERLINE,BETPERLINE_EN,BETPERLINE_CN
+CREDITS,CREDITS_EN,CREDITS_CN
+FREESPINS,FREESPINS_EN,FREESPINS_CN
+LINES,LINES_EN,LINES_CN
+MEGAJACKPOT,MEGAJACKPOT_EN,MEGAJACKPOT_CN
+MINIJACKPOT,MINIJACKPOT_EN,MINIJACKPOT_CN
+MINORJACKPOT,MINORJACKPOT_EN,MINORJACKPOT_CN
+PAYTABLE,PAYTABLE_EN,PAYTABLE_CN
+SPIN,SPIN_EN,SPIN_CN
+STOP,STOP_EN,STOP_CN
+WIN,WIN_EN,WIN_CN
+Flag,Flag-US,Flag-FR
+HelpMegaTitle,MegaJackpot,累积巨奖
+HelpMegaContent,"    The MEGA Jackpot can only be won with 5 specific jackpot symbols. Make max bet to be eligible for the jackpot!","只有同时出现五个累积巨奖图标的时候，才能够赢取奖池中的奖金！"
+HelpMiniTitle,MiniJackpot,累积小奖
+HelpMiniContent,"    The MINI Jackpot can only be won with 5 specific jackpot symbols. Make max bet to be eligible for the jackpot!","只有同时出现五个累积小奖图标的时候，才能够赢取奖池中的奖金！"
+HelpMinorTitle,MinorJackpot,累积大奖
+HelpMinorContent,"    The MINOR Jackpot can only be won with 5 specific jackpot symbols. Make max bet to be eligible for the jackpot!","只有同时出现五个累积大奖图标的时候，才能够赢取奖池中的奖金！"
+HelpWildTitle,WILD,百搭
+HelpWildContent,"    Wild counted as any symbols except scatter, bonus, free spins and jackpot.","百搭图标能够代替除了散图、小游戏、免费游戏，奖池图标之外的任意图标！"
+HelpScatterTitle,Scatter,散图
+HelpScatterContent,"    Scatter payouts are multiplied by total bet and added to win lines.","散图获得的奖金为出现相对应散图个数的倍率乘以押注总金额。"
+HelpFreeTitle,FREE,免费
+HelpFreeContent,"    The free spin icon will award 5 free spins when 3 icons are displayed, 10 free spins when 4 icons are displayed, and 15 free spins when 5 icons are displayed.","当有三个免费游戏图标出现时，则获得5次免费游戏奖励；当有四个免费游戏图标出现时，则获得10次免费游戏奖励；当有五个免费游戏图标出现时，则获得15次免费游戏奖励；"
+HelpBonusgameTitle,Bonus Game,小游戏
+HelpBonusgameContent,"    Anywhere on reels 3/4/5 starts Bonus game","当滚轮中出现3/4/5个小游戏图标就会触发小游戏。"
+HelpTotalBet,Total Bet,总押注额
+HelpLines,"Lines:","线路图："
+Lobby_Mega,MEGAJACKPOT_EN,MEGAJACKPOT_CN
+Lobby_Mini,MINIJACKPOT_EN,MINIJACKPOT_CN
+Lobby_Minor,MINORJACKPOT_EN,MINORJACKPOT_CN
+Lobby_Credits,CREDITS_EN,CREDITS_CN
+Lobby_Setting,SETTING_EN,SETTING_CN
+Lobby_Exit,EXITGAME_EN,EXITGAME_CN
+Lobby_LoginBox,LOGIN_EN,LOGIN_CN
+Lobby_Register,"Register","注册"
+Lobby_LOGINBtn,LOGINBtn_EN,LOGINBtn_CN
+Lobby_LoginTip,"Wrong account or password,please try again!","用户名或密码错误，请重试！"
+Lobby_RegisterBox,REGISTER_EN,REGISTER_CN
+Lobby_Submit,SUBMIT_EN,SUBMIT_CN
+Lobby_ExitTitle,EXIT_EN,EXIT_CN
+Lobby_ExitYES,YES_EN,YES_CN
+Lobby_ExitNO,NO_EN,NO_CN
+Lobby_LoseConnectTip,"LOST CONNECTION!!!","断开连接！！！"
+FreeSpins,FreeSpins_EN,FreeSpins_CN
+BounsGame,BounsGame_EN,BounsGame_CN
+YouWin,YouWin_EN,YouWin_CN
+YouWin2,YouWin2_EN,YouWin2_CN
+MegaEffect,MegaEffect_EN,MegaEffect_CN
+MegaEffect2,MegaEffect2_EN,MegaEffect2_CN
+MinorEffect,MinorEffect_EN,MinorEffect_CN
+MinorEffect2,MinorEffect2_EN,MinorEffect2_CN
+MiniEffect,MiniEffect_EN,MiniEffect_CN
+LJXJ,LJXJ_EN,LJXJ_CN
+LJDJ,LJDJ_EN,LJDJ_CN
+ZJCJ,ZJCJ_EN,ZJCJ_CN
+MiniJackpotYouWin,miniJackpot_EN,miniJackpot_CN
+Scatter,SCATTER_EN,SCATTER_CN
+Wild,5ofwild_EN,5ofwild_CN
+SG_Times,TIMES_EN,TIMES_CN
+SG_Win,WIN_EN,WIN_CN
+SG_Play,PLAY_EN,PLAY_CN
+SG_ChinaStyle,"Use a torch, to ignite any Kongmin-light, then give corresponding reward in accordance with the pop-up number.","用火把，引燃任意的孔明灯，最后根据弹出的数字作为奖励。"
+SG_EgyptStyle,"Click the 'PlAY' button to call to summon the legendary treasure, then a rewand will be given accordingly.","点击开始按钮，通过符文召唤传说中的宝物，最后根据宝物来获得奖励。"
+SG_ASTROSPACE,"Destroy the enemy warships in space, then, you will get the corresponding reward.","在太空中，有无数的敌方战舰，对战舰进行射击操作，击沉战舰后你将获得相对应的奖励。"
+SG_FOOTBALL,"Selecting a soccer star on the field from NO. 1-9 for penalty goal,, game will continue with a reward when a goal scored ,otherwise a game chance lost.","选择其中一个队员进行踢球，球进了则获得奖励，失败则失去一次游戏次数。"
+SG_MAMMON,"Click the 'gold ingot' button on the table, players will be rewarded if golden flower appeared otherwise the playing chance lost.","根据提示点击桌面上的金元宝，若是敲击金元宝后，出现金花，则获得奖励，若是没出现金花，则失去一次游戏机会。"
+SG_IceWorld,"Click on the ice button and break the ice with a hammer, you will be able to get the precious stones hidden in the ice as a reward.","点击冰块后，用冰锤敲碎冰块，可以获得大奖或者小奖。"
+SG_GREENJUNGLE,"Help the little squirrel search food, you will be rewarded when nuts are found, Otherwise, a chance of the game lost.","画面中每次会出现2个洞穴，帮助小松鼠选择其中一个洞穴。如果选择正确，则会飞出坚果；如果选择错误，则会变成石头并且扣减一次游戏次数。"
+SG_ZOMBIEWORLD,"Drop bombs to the designated area according to the prompt . You will get the corresponding reward once you kill zombies.","开始执行任务，点击指定位置对该地区僵尸进行轰炸处理，同时获取相应的奖励。"
+SG_DragonEyes,"Explore the treasure hidden in the mountains , click the treasure box,the game continue once successfully the treasure gotten, ; you will lose the playing chance once the dragon guarding the treasure accidentally shocked while exloring.","寻找藏在山上的宝藏。点击宝箱后，若是出现宝藏，则游戏继续，且获得奖励；若是不小心弄醒了沉睡的龙，则游戏失败，失去一次小游戏机会。"
+SG_Horoscope,"Click the PLAY button, the sky appeared two signs of the zodiac, and player got rewarded according to the constellation design.","点击开始按钮，天空中出现十二星座中的两个星座，最后根据星座图案来获得奖励。"
+SG_Victory,"Crusade against local warshipsPlace which appear on the sea surface. Attack the enemy warships, reward received as the one of the enemy warships sank, otherwise you lose a chance to play.","海面上出现敌方战船，对敌方战船进行讨伐，点击攻击敌方战船，击沉则获得奖励，没击中敌方战船，则失去一次游戏机会。"
+SG_Goldenminer,"Dig the treasure of underground miners collection to get gold, Rewarded and game continue once gold found;Otherwise you lose one chance to play.","点击选择画面中的袋子进行勾取。如果是金矿则获得奖励，如果是炸弹则失败。"
+SG_Pirate,"Click on the Spin Button, the pirates will treasure on the island, at the same time you will be rewarded.","点击旋转，根据所停下来的位置进行奖励。"
+SG_HAPPYFARM,"Click the button [PLAY], the truck will move into the direction of number on the wheel, and you'll be rewarded according to where the truck stops.","点击开始按钮后，货车开始行进并收获水果，根据水果的种类获得奖励。"
+SG_ALADDIN,"Wipe one of the two lamp-lights, the game ends as the lamp dimming, or player will get rewarded if God of Light would appear.","擦拭两盏神灯中的其中一盏，若是神灯变暗，则游戏结束，出现灯神的话，则获得奖励。"
+SG_HUNTING,"Hunting in the bushes to find rabbits or deer. you lose a playing chance as long as tiger appear.","在草丛中寻找猎物，当找到兔子或者鹿，则获得奖励，若是被老虎发现的话，则失去一次游戏机会。"
+SG_ROBO,"Charging the robots, click on the charging machine guns,reward will be paid as the task of charging done:Otherwise he laboratory send out a warning signals, then a chance to play lost at the same time.","点击充能枪对机器人进行充能，充能成功获得奖励，失败则扣减一次游戏次数。"
+SG_VAMPIRE,"Search in the coffin for the treasure to obtain the cross,then the game continued,otherwise game over once vampire appear.","点击选择吸血鬼的棺材，棺材打开，如果是宝石则获得奖励，如果是吸血鬼则扣减一次游戏次数。"
+SG_BIGSHOW,"Flashlight began to spin since the PLAY button have being clicked. Finally you will be awarded by the two female models if you win the game.","点击开始按钮后，闪光灯开始转动，最后获胜的两位女模特将给予你奖励。"
+SG_Sugar,"A small amount of candy drop once Play button being clicked, then you are awarded with small reward. On the other hand, big reward drop when large amount of candy drop.","点击下方的任意一个糖果盒子，糖果掉的越多奖励越大。"
+SG_Roselover,"Choose any card to turn over,you will be rewarded when the card shows sexy girl.And you will lose one chance to play the game when shows withered rose.","点击翻开玫瑰卡牌，如果是性感美女则获得奖励；如果是枯萎的玫瑰是失败并且失去一次游戏次数。"
+SG_PinkBar,"Select any one palm to whip on the girl's hips,then you will get the reward.","请选择任意一个手掌，点击手掌后，该手掌会对美女进行拍屁股。最后根据弹出的数字获得奖励。"
+SG_Sweetheart,"choose any heart ,you can get reward when you meet a beauty,otherwise you will lose one chance to play the game.","点击9个心图标，成功的话，则美女会与你见面，同时获得奖金；失败的话，则失去一次游戏机会。"
+SG_Sexybody,"There are nine positions on the byobu,find the right position to peep the girls and then you wil get reward,otherwise you will lose one chance to play the game.","美女躲在屏风后面更衣，点击9个位置戳破屏风，偷窥成功则可看到美女裸体；失败则无法看见并且失去一次游戏机会。"
+SG_ShowGirl,"Choose one Silhouette to light up，and then you will get reward.","选择点击下方的人物剪影，使人物亮起，你将获得奖励。"
+SG_BeautyInBed,"Open the curtains,you wil be rewarded when a girl shows .otherwise the games is over.","选择掀开任意一边帘子，如果是有美女，则获得奖励；否则游戏结束."
+SG_HotelDay,"Choose one silhouette to light up,and then you will get reward.","选择点击下方的人物剪影，使人物亮起，你将获得奖励."
+SG_CityNight,"Click the golden aperture,you will be rewarded when girls show up.otherwise the games is over.","点击地面的金色光圈，如果出现美女则获得奖励；否则游戏结束."
+SG_HolidyBikini,"Choose one of the beach umbrella to find out the girl,and you will be rewarded","选择任意一个沙滩伞，找出美女后可获得奖励"
+SG_ChristmasGirl,"Open the gift box and get the Christmas presents.","拆开礼物盒子，获得圣诞礼物"

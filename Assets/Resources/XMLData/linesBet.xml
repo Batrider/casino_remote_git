@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Australia>
+    <Line gear ="15" delta = "3">
+		 <msg>0.1</msg>
+		 <msg>0.5</msg>
+		 <msg>1</msg>
+		 <msg>2</msg>
+		 <msg>5</msg>
+		 <msg>10</msg>
+		 <msg>20</msg>
+		 <msg>25</msg>
+    </Line>
+    <Line gear ="25" delta = "5">
+         <msg>0.1</msg>
+		 <msg>0.5</msg>
+		 <msg>1</msg>
+		 <msg>2</msg>
+		 <msg>5</msg>
+		 <msg>10</msg>
+		 <msg>15</msg>
+		 <msg>20</msg>
+    </Line>
+    <Line gear ="50" delta = "10">
+         <msg>0.1</msg>
+		 <msg>0.5</msg>
+		 <msg>1</msg>
+		 <msg>2</msg>
+		 <msg>5</msg>
+		 <msg>7</msg>
+		 <msg>9</msg>
+		 <msg>12</msg>
+    </Line>
+    <Line gear ="100" delta = "10">
+    	 <msg>0.1</msg>
+		 <msg>0.5</msg>
+		 <msg>1</msg>
+		 <msg>2</msg>
+		 <msg>3</msg>
+		 <msg>4</msg>
+		 <msg>5</msg>
+		 <msg>6</msg>
+    </Line>
+</Australia>
