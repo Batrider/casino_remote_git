@@ -68,6 +68,7 @@ public class NetworkConnect : MonoBehaviour
     public int logTag = 0;//表示未登录
     public string check_key;
     public string loginServer;
+    public string port;
     private int cursor = 0;
     private int sendCursor = 0;
     private string token = string.Empty;
@@ -110,7 +111,8 @@ public class NetworkConnect : MonoBehaviour
         for (int i = 0; i < requestTimeMax; i++)
         {
             string jsonDataPost = JsonMapper.ToJson(getInfoSend);
-            WWW www = new WWW(string.Format("http://{0}/get_inform", loginServer), Encoding.UTF8.GetBytes(jsonDataPost));
+            IPAddress[] ips = Dns.GetHostAddresses(loginServer);
+            WWW www = new WWW(string.Format("http://{0}:{1}/get_inform", ips[0], port), Encoding.UTF8.GetBytes(jsonDataPost));
             float timeCount = 0;
             while (!www.isDone)
             {
