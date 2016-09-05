@@ -160,11 +160,7 @@ public class SceneManager : MonoBehaviour
     }
     IEnumerator DownLoadDataFromNet(string sceneName)
     {
-        string pattern = @"\/\w+\/";
-        Regex regex = new Regex(pattern);
-        string sceneUrl = regex.Replace(VersionController.ftpUrl, "/resource/");
-        Debug.LogWarning(sceneUrl + sceneName + ".unity3d");
-        WWW assetbndle = new WWW(sceneUrl + sceneName + ".unity3d");
+        WWW assetbndle = new WWW(VersionController.ftpUrl + sceneName + ".unity3d");
         int indexTime = 0;
         downloadProgresss = 0;
         bool networkError = false;
