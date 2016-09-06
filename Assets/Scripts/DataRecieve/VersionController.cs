@@ -81,9 +81,9 @@ public class VersionController : MonoBehaviour {
     {
         InitGameInfo();
         //network check
-        //StartCoroutine(NetWorkDetect());
+        StartCoroutine(NetWorkDetect());
         //no network check
-        StartCoroutine(Load());
+        //StartCoroutine(Load());
 	}
     IEnumerator Load()
     {

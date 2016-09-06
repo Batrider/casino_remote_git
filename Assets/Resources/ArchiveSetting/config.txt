@@ -1,7 +1,7 @@
 {
-"companyName":"777igt",
-"productName":"777igt",
-"bundleIdentifier":"com.igt777.casino",
+"companyName":"777GAME",
+"productName":"777GAME",
+"bundleIdentifier":"com.GAME777.casino",
 "bundleVersion":"1.4.2",
 "shortBundleVersion":"1.4",
 "platform":"null",
