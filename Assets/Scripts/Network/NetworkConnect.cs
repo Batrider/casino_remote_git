@@ -228,8 +228,6 @@ public class NetworkConnect : MonoBehaviour
     //开放接口登录
     IEnumerator LoginByInterface_IE(string name, string password)
     {
-        LoginWithToken(VersionController.tokenUrl);
-        yield break;
         HttpLogin_SEND send = new HttpLogin_SEND();
         send.user_name = name;
         send.user_password = password;
