@@ -37,6 +37,7 @@ public class VersionController : MonoBehaviour {
     public static string signUrl = "";
     public static string postUrl = "";
     public static string keyStr = "";
+    public static string apkUrl = "";
     public static string apkName = "";
     public static string versionUrl = "";
     public static string platform = "";
@@ -74,6 +75,7 @@ public class VersionController : MonoBehaviour {
         versionUrl = msgJsonRecieve.versionUrl;
         signUrl = msgJsonRecieve.signUrl;
         keyStr = msgJsonRecieve.keyStr;
+        apkUrl = msgJsonRecieve.apkUrl;
         apkName = msgJsonRecieve.apkName;
         agent = msgJsonRecieve.agent;
     }
@@ -213,7 +215,7 @@ public class VersionController : MonoBehaviour {
     /// <returns></returns>
     IEnumerator DownLoadIE()
     {
-        WWW download = new WWW(ftpUrl+ apkName);
+        WWW download = new WWW(apkUrl);
         while (!download.isDone)
         {
             uiSlider.value = download.progress;

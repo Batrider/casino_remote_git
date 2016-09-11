@@ -10,7 +10,8 @@
 "gameUrl":"null",
 "versionUrl":"http://appdownload.777igt.com/version/version.txt",
 "signUrl":"null",
-"apkName":"777igt.apk",
+"apkUrl":"http://appdownload.777igt.com/777game/777GAME.apk",
+"apkName":"777GAME.apk",
 "keyStr":"null",
 "agent":"null"
 }

@@ -413,6 +413,7 @@ public class ArchiveDataForm : HttpMessages
     public string gameUrl;
     public string versionUrl;
     public string signUrl;
+    public string apkUrl;
     public string apkName;
     public string keyStr;
     public string agent;
